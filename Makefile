@@ -5,7 +5,7 @@
 # License: BSD (http://www.opensource.org/licenses/bsd-license.php)
 #
 
-LANGUAGES = pt_br
+LANGUAGES = en_US
 
 SED = sed
 RST2HTML = rst2html
