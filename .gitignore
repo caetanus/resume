@@ -1,3 +1,6 @@
+resume-en_US.rst
+resume-pt_br.rst
+*.sw*
 *.txt
 *.html
 *.pdf
