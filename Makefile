@@ -22,7 +22,7 @@ all: html pdf
 
 resume-light-%.txt: resume-light-%.rst
 	$(SED) \
-		-e "s/NODEID/$(shell git log -r | grep commit | head -n 1 | awk '{print $2}' )/" \
+		-e "s/NODEID/$(shell git log -r | grep commit | head -n 1 | sed 's/^commit *//g' )/" \
 		-e "s/DATE/$(shell git log -r  | grep Date | head -n 1 | sed 's/^Date: *//g')/" \
 		$< > $@
 
@@ -50,4 +50,3 @@ pdf: $(PDF_TARGETS)
 .PHONY: clean
 clean:
 	$(RM) -v *.txt *.html *.pdf
-

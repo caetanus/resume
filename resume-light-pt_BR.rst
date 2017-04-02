@@ -204,4 +204,7 @@ Especialidades
 
 ______
 
-http://github.com/caetanus/resume/resume-light-pt_br.srt NODEID - DATE
+
+ `Este currículo <https://github.com/caetanus/resume/blob/NODEID/resume-light-pt_BR.rst>`_  no github
+
+ este currículo foi gerado em: DATE

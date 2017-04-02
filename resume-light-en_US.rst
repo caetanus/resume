@@ -10,7 +10,7 @@ Marcelo Aires Caetano
 Objective
 ~~~~~~~~~~~~~~~~~~~~~~
 
-Act as a Senior Software Engineer, Software Specialist or System Architect; looking forward to software quality, lower maintenance costs and high performance.
+Senior Software Engineer, Software Specialist or System Architect; looking forward to software quality, lower maintenance costs and high performance.
 
 17 years of experiencience in developing software, beeing 13 years with python, 15 years with C, 8 years with C++, acting in high performance computing, distributed systems, integrators, device driver development, telecom services, IPTV, high availability and WEB systems in general segments. I'm a quicky learner, self taught with great curiosity and  I have a fast learning curve in new technologies, always trying to innovate with techniques focused on both business and performance / cost as well as the costumer.
 
@@ -165,8 +165,9 @@ Skills
 
  fabric, gulp.js, chef
 
-____
+______
 
- http://github.com/caetanus/resume/resume-light-en_US.srt NODEID
+
+ `This resume <https://github.com/caetanus/resume/blob/NODEID/resume-light-en_US.rst>`_  in github
 
  this resume was generated at: DATE
